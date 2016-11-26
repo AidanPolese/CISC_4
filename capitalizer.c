@@ -6,7 +6,6 @@
 // Lianne Orlowski : 10204124
 
 #include<stdio.h>
-#include<string.h>
 #include<ctype.h>
 #include<stdlib.h>
 
